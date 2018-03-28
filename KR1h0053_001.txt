@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 日講四書解義
-#+DATE: 2018-03-28 13:09:45.309719
+#+DATE: 2018-03-28 13:09:45.659300
 #+PROPERTY: ID KR1h0053
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 御製序
 　欽定四庫全書¶
 御製日講四書解義序¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 日講四書解義
-#+DATE: 2018-03-28 13:09:45.369074
+#+DATE: 2018-03-28 13:09:45.716665
 #+PROPERTY: ID KR1h0053
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 論語上之二
 <pb:KR1h0053_WYG_006-1a>¶
 　欽定四庫全書¶
